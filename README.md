@@ -9,4 +9,4 @@ in eccv16.py there is a code block forward() with label #train or #demo
 Result
 | original                 | eccv16                    | siggraph17                                    |
 | -------------------- | ------------------------- | --------------------------------------------- |
-| ![](dst/01.jpg) | ![](dst/saved_eccv16.png) | ![](dst/saved_siggraph17.png) |
+| ![](dst/01.jpg) | ![](dst/_eccv16.png) | ![](dst/_siggraph17.png) |
